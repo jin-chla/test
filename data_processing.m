@@ -12,6 +12,8 @@ clc
 % check the content of the file - 561 rows, 2 columns
 type ../features.txt
 
+% someone is messing with your code! Danger!
+
 % Skip the empty lines when you read a txt file.
 % I am adding this argument, because I noticed that the original
 % features.txt has a blank row at the end, and ff ends up having
